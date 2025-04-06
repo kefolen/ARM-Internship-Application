@@ -34,11 +34,6 @@ Place your input files in the `Data/` directory:
 - `dataset.tsv`: Tab-separated dataset with binary biomarker columns and a `donor_is_old` column.
 - `rules.txt`: Rule file where each line represents one rule.
 
-Then run the script:
-
-```bash
-python Implementation.py
-```bash
-
+Then run the script: python Implementation.py
 The result will be saved in: Data/ans.txt
 
