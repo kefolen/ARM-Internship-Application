@@ -37,7 +37,8 @@ Place your input files in the `Data/` directory:
 Then run the script:
 
 ```bash
-python Implementation.py```
+python Implementation.py
+```bash
 
 The result will be saved in: Data/ans.txt
 
