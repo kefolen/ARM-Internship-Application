@@ -1,0 +1,5 @@
+NOT Hb AND NOT Lymphocytes AND NOT Notch_1 => donor_is_old
+GDF_15 => donor_is_old
+Neutrophils => donor_is_old
+
+Overall probability of correctness with this ruleset: 0.923
